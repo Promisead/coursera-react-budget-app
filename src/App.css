@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.custom-select option:hover {
+  background-color: lemonchiffon;
+  color: black;
+}
